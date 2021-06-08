@@ -1,0 +1,57 @@
+$textAlgn : center;
+$height : 25rem;
+div:nth-child(1) {
+    text-align: $textAlgn;
+    background-color: red;
+    height: $height;
+  }
+div:nth-child(2){
+  text-align: $textAlgn;
+  height: $height;
+}
+  div:nth-child(3) {
+    text-align: $textAlgn;
+    background-color: darkcyan;
+    height: $height;
+    
+  }
+  div:nth-child(4) {
+    text-align: $textAlgn;
+    background-color:black;
+    height: $height;
+  }
+  div:nth-child(5) {
+    text-align: $textAlgn;
+    background-color:hotpink;
+    height: $height;
+  }
+  div:nth-child(6) {
+    text-align: $textAlgn;
+      background-color: grey;
+      height: $height;
+  }
+  div:nth-child(7) {
+    text-align: $textAlgn;
+    background-color:blue;
+    height: $height;
+  }
+  div:nth-child(8) {
+    text-align: $textAlgn;
+      background-color: brown;
+      height: $height;
+     
+  }
+  div:nth-child(9) {
+    text-align: $textAlgn;
+    background-color:darkviolet;
+    height: $height;
+  }
+  div:nth-child(10) {
+    text-align: $textAlgn;
+      background-color: seagreen;
+      height: $height;
+  }
+
+
+
+ 
